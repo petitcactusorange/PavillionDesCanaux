@@ -1,0 +1,6 @@
+. minutes 20-07-2016
+
+1-  Read :  https://cds.cern.ch/record/1703268?ln=en
+2-  Extrapolate the expected limits to current yields. 
+3 - Check MC Ds -> phi mu nu and tau -> mu phi.  
+4-  Test HOP
